@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image: url("../Img/bg.jpg");
+}
+
+.miglioramento{
+	font-family: courier;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: dodgerblue;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 80px;
+	color: skyblue;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+
+.presentazione{
+	font-size: 20px;
+	font-family: courier;
+	margin-left: 125px;
+}
+
+.rosso{
+	color: red;
+}

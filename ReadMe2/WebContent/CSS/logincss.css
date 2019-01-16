@@ -1,0 +1,70 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-image: url("../Img/bg.jpg");
+}
+
+p{
+	margin-left: 120px;
+	font-style: italic;
+}
+
+input{
+	font-style: italic;
+	text-align: center;
+	background-color: paleturquoise;
+	padding: 5px;
+}
+
+form{
+	border-style: dotted;
+	border-color: skyblue;
+	width: 100%;
+}
+
+img{
+	margin-bottom: 40px;
+}
+
+label{
+	display: block;
+	margin-bottom: 10px;
+	font-style: bold;
+	font-size: 25px;
+}
+
+a{
+	font-style: italic;
+}
+
+.bordo{
+	border-style: dotted;
+	border-color: skyblue;
+}
+
+.posizione{
+	margin-bottom: 15px;
+}
+
+.miglioramento{
+	margin-top: 25px;
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 15px;
+	margin-bottom: 35px;
+}
+
+.posizionamento{
+	margin-bottom: 25px;
+}
+
+#cambiamento{
+	display: block;
+	width: 200px;
+	padding: 8px;
+	background-color: dodgerblue;
+	color: white;
+	margin-top: 5px;
+	font-size: 15px;
+	font-weight: bold;
+}

@@ -1,0 +1,199 @@
+@charset "ISO-8859-1";
+
+h1{
+	font-weight: bold;
+	font-size: 40px;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+
+i{
+	color: dodgerblue
+}
+
+select {
+	font-size: 15px;
+	font-weight: bold;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+label {
+	margin-left: 120px;
+	font-style: italic;
+	font-size: 25px;
+}
+
+button{
+	margin-bottom: 35px;
+}
+
+hr{
+	color: black;
+}
+
+p{
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+body{
+	background-image: url("../Img/bg.jpg");
+}
+
+input {
+	margin-left: 120px;
+	margin-bottom: 20px;
+}
+
+td{
+	font-family: courier;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+td.prezzo{font-weight: bold;}
+
+.formacquisto{
+	font-weight: bold;
+	font-size: 65px;
+	color: skyblue;
+}
+
+.descrizione{
+	color: black;
+	font-family: courier;
+}
+
+.fromregistrazione{
+	font-weight: bold;
+	font-size: 80px;
+	color: skyblue;
+	margin-left: 100px;
+	margin-bottom: 30px;
+
+}
+
+.modificaPiccola{
+	height: 150px;
+}
+
+.rifinitura {
+	margin-left: 0px;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.basiliare{
+	font-style: italic;
+	color: black;
+}
+
+.inputcarr{
+	margin-left: 0px;
+}
+
+.importo{
+	font-size: 25px;
+	margin-top: 2px;
+	font-family: courier;
+	color: red;
+	float: right;
+	margin-bottom: 6px;
+}
+
+.titolo {
+	font-weight: bold;
+	font-size: 80px;
+	color: skyblue;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+
+.carrello{
+	color: black;
+	margin-top: 10px;
+	font-size: 15px;
+}
+
+.desctiption{
+	width: 100px;
+	height: 350px;
+}
+
+.icon{
+	width: 100px;
+	height: 60px;
+}
+
+.iconnav{
+	width: 100px;
+	height: 40px;
+}
+
+.iconcar{
+	width: 40px;
+	height: 25px;
+}
+
+.logo{
+	margin-top: 120px; 
+}
+
+.ricerca{
+	margin-top: 400px;
+	margin-bottom: 400px;
+}
+
+.posizionamento{
+	width: 550px;
+	margin-top: 30px;
+}
+
+.controllo{
+	margin-left: 0px;
+	background: dodgerblue;
+	width: 500px;
+	height: 50px;
+	font-family: courier;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 15px;
+	color: white;
+}
+
+.controllosubmit{
+	margin-left: 0px;
+	background: dodgerblue;
+	font-family: courier;
+	color: white;
+	padding: 5px;
+}
+
+.offerts{
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+#cambiamento {
+	color: white;
+	background-color: dodgerblue;
+	width: 200px;
+	padding: 8px;
+	margin-top: 25px;
+	margin-bottom: 150px;
+}
+
+#cambiamento2{
+	color: white;
+	background-color: dodgerblue;
+	width: 200px;
+	padding: 8px;
+	margin-top: 5px;
+	margin-bottom: 150px;
+}

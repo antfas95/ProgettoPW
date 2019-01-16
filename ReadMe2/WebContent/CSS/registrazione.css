@@ -1,0 +1,102 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url("../Img/bg.jpg");
+}
+
+legend {
+	display: block;
+	font-style: italic;
+	font-size: 25px;
+	margin-left: 120px;
+}
+
+select {
+	margin-left: 120px;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+input {
+	margin-left: 120px;
+	margin-bottom: 20px;
+}
+
+label {
+	margin-left: 120px;
+	font-style: italic;
+	font-size: 25px;
+}
+
+img {
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 80px;
+	color: skyblue;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+
+p {
+	margin-left: 120px;
+	font-style: italic;
+}
+
+.mioDiv {
+	float: left;
+	margin-bottom: 5px;
+	margin-right: 15px;
+	width: 900px;
+	height: 250px;
+	background-color: dodgerblue;
+	padding-top: 3px;
+}
+
+.imgRichiest {
+	width: 150px;
+	height: 200px;
+}
+
+.viewrichiest {
+	color: white;
+	font-style: normal;
+	font-size: 18px;
+}
+
+.importo {
+	font-size: 25px;
+	margin-top: 2px;
+	font-family: courier;
+	color: red;
+	float: right;
+	margin-bottom: 6px;
+}
+
+.icon {
+	width: 100px;
+	height: 60px;
+}
+
+.libero {
+	margin-bottom: 120px;
+}
+
+.rifinitura {
+	display: block;
+	margin-bottom: 10px;
+}
+
+#cambiamento {
+	color: white;
+	background-color: dodgerblue;
+	width: 200px;
+	padding: 8px;
+	margin-top: 25px;
+	margin-bottom: 150px;
+}

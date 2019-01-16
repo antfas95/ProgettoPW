@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+@media screen and (max-width: 400px) {
+	img.logo {
+		width: 200px;
+		height: 100px;
+		margin-top: 400px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	img.logo {
+		width: 300px;
+		height: 150px;
+		margin-top: 400px;
+	}
+	#cambiamento {
+		color: white;
+		background-color: dodgerblue;
+		width: 200px;
+		padding: 8px;
+		margin-top: 25px;
+		margin-bottom: 5px;
+	}
+	label {
+		margin-left: 50px;
+		font-style: italic;
+		font-size: 25px;
+	}
+	input {
+		margin-left: 70px;
+		font-style: italic;
+	
+
+		width: 600px;
+		margin-right: 100px;
+	}
+}
